@@ -5,7 +5,7 @@ This minimalist utility features clear dynamic controls to increase, decrease, a
 reset numerical tallies instantly.
 
 ## 🚀 Live Demo
-Check out the live application here: [Counter App Live](https://gopika-box.github.io/ToDo_List/)
+Check out the live application here: [Counter App Live](https://gopika-box.github.io/CounterApp/)
 
 ![App Screenshot](1.png)
 ![App Screenshot](2.png)
